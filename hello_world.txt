@@ -1,4 +1,4 @@
 hello world 
 this is some text being added 
-this will act as a gagUe for whether or not the test is completed
+this will act as a gauge for whether or not the test is completed
 gg/gl/gn!
